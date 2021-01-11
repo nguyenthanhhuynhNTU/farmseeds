@@ -1,0 +1,35 @@
+.about-us {
+    box-sizing: border-box;
+}
+
+.about-us p {
+    box-sizing: border-box;
+    margin: 0 0 15px 0;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+
+    line-height: 2;
+    font-size: 16px;
+}
+
+.about-us ul {
+    box-sizing: border-box;
+    margin: 0 0 15px 20px;
+    padding: 0;
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+.about-us ul li {
+    color: rgb(51, 153, 102);
+    font-weight: bold;
+    font-size: 20px;
+}
